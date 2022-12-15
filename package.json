@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^4.13.0",
-    "@web3sdkio/react": "^3.4.2",
-    "@web3sdkio/sdk": "^3.4.2",
+    "@web3sdkio/react": "^2.0.1",
+    "@web3sdkio/sdk": "^1.0.12",
     "ethers": "^5.7.2",
     "graphql": "^16.6.0",
     "next": "13.0.0",
